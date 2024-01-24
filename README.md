@@ -1,5 +1,5 @@
 ## Resmo do projeto
-Projeto desenvolvido como prática para acesso à internet e consumo de API REST em um aplicativo Flutter. Durante o desenvolvimento, foi realizado o acesso à API REST de testes JsonPlaceholder (https://jsonplaceholder.typicode.com/).
+Projeto desenvolvido como prática para acesso à internet e consumo de API em um aplicativo Flutter. Durante o desenvolvimento, foi realizado o acesso à API REST de testes JsonPlaceholder (https://jsonplaceholder.typicode.com/).
 
 A API retorna os seguintes dados no formato JSON:
 
