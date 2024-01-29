@@ -1,5 +1,5 @@
 ## Resmo do projeto
-Projeto desenvolvido como prática para acesso à internet e consumo de API em um aplicativo Flutter. Durante o desenvolvimento, foi realizado o acesso à API REST de testes JsonPlaceholder (https://jsonplaceholder.typicode.com/).
+Durante meus estudos sobre acesso à internet e consumo de API com Flutter desenvolvi esse projeto para realizar acesso a API REST de testes do JsonPlaceholder (https://jsonplaceholder.typicode.com/).
 
 A API retorna os seguintes dados no formato JSON:
 
@@ -12,8 +12,9 @@ A API retorna os seguintes dados no formato JSON:
 }
 ```
 
-Inicialmente, os dados foram armazenados em um Map e posteriormente transformados em um Objeto/Classe.
+Inicialmente, os dados foram armazenados em um map e posteriormente transformados em um objeto.
 
-Ao pressionar o botão "Get", o objeto é exibido na tela do aplicativo. Demostração abaixo:
+
+Ao pressionar o botão "Get", as informações que foram extraídas da API e tranformadas em um objeto são exibidas, como no exemplo abaixo:
 
 <img src="https://github.com/devnatanaelsantos/assets_github/blob/main/internet_access/untitled-ezgif.com-video-to-gif-converter.gif" width=300 height='650'>
