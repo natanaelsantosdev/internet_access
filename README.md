@@ -17,4 +17,4 @@ Inicialmente, os dados foram armazenados em um map e posteriormente transformado
 
 Ao pressionar o botão "Get", as informações que foram extraídas da API e tranformadas em um objeto são exibidas, como no exemplo abaixo:
 
-<img src="https://github.com/devnatanaelsantos/assets_github/blob/main/internet_access/untitled-ezgif.com-video-to-gif-converter.gif" width=300 height='650'>
+<img src="https://github.com/devnatanaelsantos/readme_imgs/blob/main/internet_access/gif.gif" width=300 height='650'>
